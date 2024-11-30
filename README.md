@@ -1,2 +1,3 @@
 # sistopo_2
-La tarea 2
+
+![Tabla](Grafico.png)
