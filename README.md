@@ -11,3 +11,4 @@ En general, las políticas de tiempo real (FIFO y Round Robin) tienden a tener t
 ![Tabla con resultados](tabla.png)
 ![Grafico](Grafico.png)
 ![Grafico 3D](Grafico_3D.png)
+![Hardware](Hw_info.png)
